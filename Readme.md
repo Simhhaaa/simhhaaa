@@ -184,3 +184,51 @@ Sustainable urban infrastructure and intelligent site planning.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5A0000,100:000000&height=120&section=footer" />
 
 </div>
+<div align="center">
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=NABHYA%20SINGH&fontSize=80&fontColor=FF0000&fontAlignY=38&stroke=8B0000&strokeWidth=2&color=0:000000,45:150000,100:030303&animation=fadeIn&desc=BUILDING%20BEYOND%20BOUNDARIES%20%2F%2F%20FULL%20STACK%20%26%20AI%20ENGINEERING&descSize=14&descColor=CCCCCC&descAlignY=68" />
+
+<!-- TYPING HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=800&color=FF1E1E&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;AI+%2F+ML+ENTHUSIAST;LLM+FINE-TUNING+%2F+ENGINEERING;BACKEND+ARCHITECT;THINK.+BUILD.+EVOLVE." />
+
+<br/><br/>
+
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/FULL_STACK-000000?style=for-the-badge&logo=react&logoColor=FF2020&labelColor=1A0000" />
+<img src="https://img.shields.io/badge/AI_%2F_ML-000000?style=for-the-badge&logo=pytorch&logoColor=FF2020&labelColor=1A0000" />
+<img src="https://img.shields.io/badge/LLM_ENGINEERING-000000?style=for-the-badge&logo=huggingface&logoColor=FF2020&labelColor=1A0000" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-000000?style=for-the-badge&logo=git&logoColor=FF2020&labelColor=1A0000" />
+
+<br/><br/>
+
+<!-- SOCIAL / CONTACT BADGES -->
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF2020&labelColor=1A0000)](https://github.com/Simhhaaa)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF2020&labelColor=1A0000)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FF2020&labelColor=1A0000)](https://github.com/Simhhaaa)
+
+</div>
+
+---
+
+## ⚡ 01 / THE DEVELOPER
+
+```python
+class Nabhya:
+    def __init__(self):
+        self.name = "Nabhya Singh"
+        self.education = "B.Tech Computer Science & Engineering"
+        self.role = "Full Stack & AI Engineer"
+        
+        self.tech_stack = {
+            "core": ["Python", "C++", "Java", "JavaScript"],
+            "frontend": ["React", "Tailwind CSS", "Vite"],
+            "backend": ["Node.js", "Express", "FastAPI"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
+            "ai_ml": ["PyTorch", "Hugging Face", "LLM Fine-Tuning"]
+        }
+
+        self.mindset = "Think. Build. Evolve."
+
+    def execute(self):
+        return "Architecting intelligent systems & scaling high-performance web apps."
