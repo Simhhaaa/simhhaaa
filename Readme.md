@@ -209,26 +209,3 @@ Sustainable urban infrastructure and intelligent site planning.
 
 </div>
 
----
-
-## ⚡ 01 / THE DEVELOPER
-
-```python
-class Nabhya:
-    def __init__(self):
-        self.name = "Nabhya Singh"
-        self.education = "B.Tech Computer Science & Engineering"
-        self.role = "Full Stack & AI Engineer"
-        
-        self.tech_stack = {
-            "core": ["Python", "C++", "Java", "JavaScript"],
-            "frontend": ["React", "Tailwind CSS", "Vite"],
-            "backend": ["Node.js", "Express", "FastAPI"],
-            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
-            "ai_ml": ["PyTorch", "Hugging Face", "LLM Fine-Tuning"]
-        }
-
-        self.mindset = "Think. Build. Evolve."
-
-    def execute(self):
-        return "Architecting intelligent systems & scaling high-performance web apps."
