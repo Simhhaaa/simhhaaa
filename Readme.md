@@ -1,186 +1,236 @@
-# 👋 Hey, I'm Nabhya Singh
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 
-<h3 align="center">Building Across Boundaries.</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Backend+Engineer;Open+Source+Explorer;Always+Building+Something+New" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=NABHYA%20SINGH&fontSize=65&color=0:020617,50:083344,100:0891B2&fontColor=E0F2FE&stroke=22D3EE&strokeWidth=1&animation=fadeIn&fontAlignY=45&desc=BUILDING%20ACROSS%20BOUNDARIES&descSize=16&descAlignY=68" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Simhhaaa&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Development;Artificial+Intelligence+%26+LLMs;Backend+Engineering;Open+Source+%26+Problem+Solving;Ideas+%E2%86%92+Code+%E2%86%92+Reality" />
 
-## ⚡ About Me
+<br/><br/>
 
-- 🎓 B.Tech CSE Student
-- 💻 Exploring Full Stack Development, AI/ML and Systems.
-- 🧠 Interested in LLMs, model fine-tuning and intelligent applications.
-- 🚀 Building projects that solve real-world problems.
-- 🌱 Always learning, experimenting and building.
+[![GitHub](https://img.shields.io/badge/GitHub-Simhhaaa-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/Simhhaaa)
+[![LeetCode](https://img.shields.io/badge/LeetCode-CwV0CDRni5-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/CwV0CDRni5/)
 
-> I don't believe in limiting myself to one domain. I love exploring different technologies and turning ideas into reality.
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
-### Programming Languages
+## `01` / THE DEVELOPER
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp&theme=dark" />
-</p>
+```python
+class Nabhya:
+    def __init__(self):
+        self.name = "Nabhya Singh"
+        self.role = "Developer & Builder"
+        self.education = "B.Tech CSE"
+        self.interests = [
+            "Full Stack Development",
+            "Artificial Intelligence",
+            "LLM Engineering",
+            "Backend Systems",
+            "Open Source"
+        ]
+        self.mindset = "Build. Break. Learn. Repeat."
 
-### Frontend Development
+    def current_focus(self):
+        return "Turning ambitious ideas into working products"
+```
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
-</p>
+I enjoy exploring technology across different domains — from building scalable web applications to experimenting with open-source AI models.
 
-### Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,npm&theme=dark" />
-</p>
-
-### Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-</p>
-
-### AI / Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-</p>
-
-`Hugging Face` · `Llama` · `Mistral` · `Unsloth` · `Axolotl` · `LLM Fine-tuning`
-
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,figma,blender,vscode&theme=dark" />
-</p>
+I believe the best developers are not defined by a single technology, but by their ability to learn, adapt and build.
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Simhhaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simhhaaa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## `02` / TECHNOLOGY ECOSYSTEM
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Simhhaaa&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+**LANGUAGES**
 
-## 📈 Contribution Activity
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Simhhaaa&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
+<br/><br/>
 
----
+**FRONTEND ENGINEERING**
 
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
 
-## 👾 Pac-Man Contribution Graph
+<br/><br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Simhhaaa/Simhhaaa/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Simhhaaa/Simhhaaa/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man Contribution Graph"
-      src="https://raw.githubusercontent.com/Simhhaaa/Simhhaaa/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+**BACKEND ENGINEERING**
 
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,npm&theme=dark" />
 
----
+<br/><br/>
 
-## 🧩 Competitive Programming
+**DATABASES**
 
-### LeetCode
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 
-<p align="center">
-  <a href="https://leetcode.com/u/CwV0CDRni5/">
-    <img src="https://leetcard.jacoblin.cool/CwV0CDRni5?theme=dark&font=Fira%20Code&ext=heatmap" width="75%" />
-  </a>
-</p>
+<br/><br/>
 
-### Codeforces
+**AI / MACHINE LEARNING**
 
-<p align="center">
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=tokyonight" width="75%" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Llama-0467DF?style=flat-square" />
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square" />
+<img src="https://img.shields.io/badge/Unsloth-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Axolotl-64748B?style=flat-square" />
+
+<br/><br/>
+
+**DEVELOPER TOOLS & ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,blender,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+
+## `03` / GITHUB INTELLIGENCE
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Simhhaaa&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simhhaaa&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1&langs_count=8" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Simhhaaa&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════ ACTIVITY ═══════════════════════ -->
+
+## `04` / THE CONSISTENCY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simhhaaa&bg_color=020617&color=CBD5E1&line=22D3EE&point=FFFFFF&area=true&area_color=083344&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════ PACMAN ═══════════════════════ -->
+
+## `05` / CONTRIBUTION UNIVERSE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Simhhaaa/Simhhaaa/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man Contribution Graph" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════ LEETCODE ═══════════════════════ -->
+
+## `06` / PROBLEM SOLVING
+
+<div align="center">
+
+<a href="https://leetcode.com/u/CwV0CDRni5/">
+
+<img src="https://leetcard.jacoblin.cool/CwV0CDRni5?theme=dark&font=Fira%20Code&ext=heatmap" width="80%" />
+
+</a>
+
+<br/>
+
+[![LeetCode Profile](https://img.shields.io/badge/EXPLORE_MY_LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CwV0CDRni5/)
+
+</div>
+
+---
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+
+## `07` / SELECTED WORKS
 
 <table>
 <tr>
-<td width="50%">
-<h3>🏋️ Fitness Copilot</h3>
-AI-powered fitness tracking and nutrition platform.
+<td width="50%" valign="top">
 
-`React` `FastAPI` `PostgreSQL` `LLMs`
+### ◈ Fitness Copilot
+
+An intelligent fitness platform combining workout tracking, nutrition logging and AI-powered assistance.
+
+**Stack:** React · FastAPI · PostgreSQL · LLMs
+
+[Explore Repository](https://github.com/Simhhaaa/fitness-tracker)
+
 </td>
-<td width="50%">
-<h3>🍔 Zwiggy</h3>
-Food delivery platform inspired by modern food ordering applications.
+<td width="50%" valign="top">
 
-`React` `Node.js` `Express`
+### ◈ Zwiggy
+
+A food delivery application inspired by modern online food ordering platforms.
+
+**Stack:** JavaScript · React · Node.js · Express
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3>🤖 LLM Experiments</h3>
-Experimenting with open-source language models and fine-tuning.
+<td width="50%" valign="top">
 
-`PyTorch` `Hugging Face` `Llama` `Mistral`
+### ◈ LLM Experiments
+
+Exploring open-source language models, experimentation and fine-tuning workflows.
+
+**Stack:** Python · PyTorch · Hugging Face · Llama · Mistral
+
 </td>
-<td width="50%">
-<h3>🏙️ Smart City Planning</h3>
-Smart urban infrastructure and sustainable city planning.
+<td width="50%" valign="top">
 
-`Autodesk Forma` `Revit`
+### ◈ Smart City Planning
+
+A smart urban planning project focused on infrastructure, environmental analysis and sustainable development.
+
+**Stack:** Autodesk Forma · Revit
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
-<p align="center">
-  <a href="https://github.com/Simhhaaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/CwV0CDRni5/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
+## `08` / ESTABLISH CONNECTION
 
----
+<div align="center">
 
-<p align="center">
-  <i>"Great things are built by those who keep experimenting."</i>
-</p>
+<a href="https://github.com/Simhhaaa">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" />
+</a>
 
-<h3 align="center">Thanks for visiting! 🚀</h3>
+<a href="https://leetcode.com/u/CwV0CDRni5/">
+<img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0EA5E9&height=120&section=footer" />
-</p>
+<br/><br/>
+
+**Always open to learning, collaborating and building something meaningful.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:083344,100:020617&height=120&section=footer" width="100%" />
+
+</div>
