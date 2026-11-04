@@ -1,44 +1,54 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&text=NABHYA%20SINGH&fontSize=58&fontColor=00F5FF&animation=fadeIn&color=0:050816,50:101B36,100:251044&fontAlignY=45&desc=DEVELOPER%20%7C%20BUILDER%20%7C%20EXPLORER&descSize=15&descColor=C4B5FD&descAlignY=72" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=270&text=NABHYA&fontSize=100&fontColor=FF2020&fontAlignY=40&stroke=8B0000&strokeWidth=2&color=0:000000,50:170000,100:050505&animation=fadeIn&desc=SINGH%20%2F%2F%20BUILDING%20ACROSS%20BOUNDARIES&descSize=16&descColor=FFFFFF&descAlignY=72" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+things+that+matter.;Exploring+AI+%26+Intelligent+Systems.;Engineering+the+Full+Stack.;Curiosity+is+my+operating+system." />
-
-<br/>
-
-`FULL STACK` &nbsp;•&nbsp; `AI / ML` &nbsp;•&nbsp; `BACKEND` &nbsp;•&nbsp; `OPEN SOURCE`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=800&color=FF3030&center=true&vCenter=true&width=650&lines=FULL+STACK+DEVELOPER;AI+%2F+ML+ENTHUSIAST;BACKEND+ENGINEERING;BUILDING+BEYOND+BOUNDARIES;THINK.+BUILD.+REPEAT." />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0B1020?style=flat-square&logo=github&logoColor=00F5FF)](https://github.com/Simhhaaa)
-![Profile Views](https://komarev.com/ghpvc/?username=Simhhaaa&style=flat-square&color=7C3AED&label=VISITORS)
+<img src="https://img.shields.io/badge/FULL_STACK-0A0A0A?style=for-the-badge&labelColor=8B0000&color=0A0A0A" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-0A0A0A?style=for-the-badge&labelColor=8B0000&color=0A0A0A" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-0A0A0A?style=for-the-badge&labelColor=8B0000&color=0A0A0A" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF2020)](https://github.com/Simhhaaa)
 
 </div>
 
 ---
 
-### `01` — WHO AM I?
+## 01 / THE DEVELOPER
 
-```yaml
-name: Nabhya Singh
-education: B.Tech CSE
-identity: Developer & Technology Explorer
+```python
+class Nabhya:
 
-interests:
-  - Full Stack Engineering
-  - Artificial Intelligence
-  - LLM Engineering
-  - Backend & Systems
-  - Open Source
+    def __init__(self):
+        self.name = "Nabhya Singh"
+        self.education = "B.Tech CSE"
+        self.role = "Developer & Builder"
 
-philosophy: "Think beyond boundaries. Build beyond limits."
+        self.interests = [
+            "Full Stack Development",
+            "Artificial Intelligence",
+            "LLM Engineering",
+            "Backend Systems",
+            "Open Source"
+        ]
+
+        self.mindset = "Think. Build. Evolve."
+
+    def current_goal(self):
+        return "Turning ambitious ideas into reality"
 ```
 
-I enjoy working across different domains of technology — from engineering web applications to experimenting with open-source AI models. I like understanding how things work, breaking them, and building something better.
+I enjoy exploring technology across different domains — from engineering web applications to experimenting with open-source AI models.
+
+I believe curiosity has no boundaries, and neither should engineering.
 
 ---
 
-### `02` — TECH ARSENAL
+## 02 / TECH ARSENAL
 
 <div align="center">
 
@@ -50,7 +60,7 @@ I enjoy working across different domains of technology — from engineering web 
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nodejs,express,fastapi&theme=dark" />
 
-**DATABASES + INFRASTRUCTURE**
+**DATABASES + SYSTEMS**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux&theme=dark" />
 
@@ -64,55 +74,59 @@ I enjoy working across different domains of technology — from engineering web 
 
 ---
 
-### `03` — GITHUB PERFORMANCE
+## 03 / GITHUB PERFORMANCE
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Simhhaaa&show_icons=true&hide_border=true&bg_color=080D1C&title_color=00F5FF&icon_color=9D7BFF&text_color=E2E8F0&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simhhaaa&layout=compact&hide_border=true&bg_color=080D1C&title_color=00F5FF&text_color=E2E8F0&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Simhhaaa&show_icons=true&hide_border=true&bg_color=000000&title_color=FF2020&icon_color=FF2020&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simhhaaa&layout=compact&hide_border=true&bg_color=000000&title_color=FF2020&text_color=FFFFFF&langs_count=8" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Simhhaaa&hide_border=true&background=080D1C&ring=00F5FF&fire=9D7BFF&currStreakLabel=00F5FF&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Simhhaaa&hide_border=true&background=000000&ring=FF2020&fire=FF2020&currStreakLabel=FF2020&sideLabels=FFFFFF&dates=999999&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
 ---
 
-### `04` — CONTRIBUTION MATRIX
+## 04 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simhhaaa&bg_color=080D1C&color=CBD5E1&line=00F5FF&point=9D7BFF&area=true&area_color=162449&hide_border=true" width="100%" />
-
-</div>
-
-### 👾 PAC-MAN MODE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Simhhaaa/Simhhaaa/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pacman GitHub contribution animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simhhaaa&bg_color=000000&color=FFFFFF&line=FF2020&point=FF5555&area=true&area_color=4A0000&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-### `05` — SELECTED PROJECTS
+## 05 / PAC-MAN CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Simhhaaa/Simhhaaa/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pacman Contribution Graph" />
+
+</div>
+
+---
+
+## 06 / SELECTED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>◈ Fitness Copilot</h3>
+<h3>01. FITNESS COPILOT</h3>
 
 AI-powered fitness and nutrition tracking platform.
 
 `React` `FastAPI` `PostgreSQL` `LLMs`
 
-<a href="https://github.com/Simhhaaa/fitness-tracker">↗ View Repository</a>
+<a href="https://github.com/Simhhaaa/fitness-tracker">↗ VIEW REPOSITORY</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>◈ Zwiggy</h3>
+<h3>02. ZWIGGY</h3>
 
 Food delivery application with a modern ordering experience.
 
@@ -123,16 +137,16 @@ Food delivery application with a modern ordering experience.
 <tr>
 <td width="50%" valign="top">
 
-<h3>◈ LLM Experiments</h3>
+<h3>03. LLM EXPERIMENTS</h3>
 
-Exploring open-source models and fine-tuning workflows.
+Exploring open-source language models and fine-tuning workflows.
 
 `Python` `PyTorch` `Hugging Face`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>◈ Smart City Planning</h3>
+<h3>04. SMART CITY PLANNING</h3>
 
 Sustainable urban infrastructure and intelligent site planning.
 
@@ -144,16 +158,16 @@ Sustainable urban infrastructure and intelligent site planning.
 
 ---
 
-### `06` — CURRENT DIRECTION
+## 07 / CURRENT DIRECTION
 
 <div align="center">
 
 | DOMAIN | FOCUS |
 |:---|:---|
-| AI Engineering | LLMs & model fine-tuning |
-| Full Stack | Modern application development |
-| Backend | APIs & database architecture |
-| Open Source | Building and contributing |
+| AI Engineering | LLMs & Model Fine-tuning |
+| Full Stack | Modern Application Development |
+| Backend | APIs & Database Architecture |
+| Open Source | Building & Contributing |
 
 </div>
 
@@ -161,10 +175,12 @@ Sustainable urban infrastructure and intelligent site planning.
 
 <div align="center">
 
-### `ALWAYS BUILDING. ALWAYS EVOLVING.`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1000&color=FF2020&center=true&vCenter=true&width=600&lines=ALWAYS+BUILDING.;ALWAYS+EVOLVING.;NO+LIMITS.+JUST+EXECUTION." />
 
-*Curiosity drives the code. Consistency builds the craft.*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:251044,50:101B36,100:050816&height=100&section=footer" width="100%" />
+**THINK DIFFERENT. BUILD DIFFERENT.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:5A0000,100:000000&height=120&section=footer" />
 
 </div>
